@@ -1,10 +1,7 @@
-## Hi, I'm Vodkazy 👋
+### Hi, I'm Vodkazy 👋
 
-<!--
-**Vodkazy/Vodkazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!--**Vodkazy/Vodkazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-#### Short Biography
 - 🌱 Currently I am a second year graduate student of Department of Computer Science and Technology in Nanjing University and a member of Websoft Research Group.
 - 🔭 I am working at Alibaba Group as a research intern now.
 
