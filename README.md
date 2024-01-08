@@ -3,8 +3,6 @@
 <!--**Vodkazy/Vodkazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🌱 I graduated from Department of Computer Science and Technology in Nanjing University and Websoft Research Group.
-- 🔭 I am working at Alibaba Group as an algorithm engineer now.
-
 ---
 #### Research Interests
 
